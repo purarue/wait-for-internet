@@ -2,12 +2,12 @@
 name = "wait-for-internet"
 version = "0.1.9"
 edition = "2021"
-authors = ["Sean Breckenridge <seanbrecke@gmail.com>"]
+authors = ["purarue"]
 license = "MIT"
 description = "Command line utility that waits till you have an internet connection."
 readme = "README.md"
-homepage = "https://github.com/seanbreckenridge/wait-for-internet"
-repository = "https://github.com/seanbreckenridge/wait-for-internet"
+homepage = "https://github.com/purarue/wait-for-internet"
+repository = "https://github.com/purarue/wait-for-internet"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [dependencies]
