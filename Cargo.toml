@@ -1,6 +1,6 @@
 [package]
 name = "wait-for-internet"
-version = "0.1.9"
+version = "0.1.10"
 edition = "2021"
 authors = ["purarue"]
 license = "MIT"
